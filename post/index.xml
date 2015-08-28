@@ -26,8 +26,14 @@ demostrar si un generador funciona de la mejor manera posible, o no.&lt;/p&gt;
       <pubDate>Thu, 27 Aug 2015 06:47:12 -0400</pubDate>
       
       <guid>http://dialo.github.io/post/first/</guid>
-      <description>&lt;p&gt;Esto es una de las tantas pruebas para comprobar la rapidez de uno
+      <description>
+
+&lt;h1 id=&#34;simple-test:e8fb9c67eba912c72729806db31eaa1b&#34;&gt;simple test&lt;/h1&gt;
+
+&lt;p&gt;Esto es una de las tantas pruebas para comprobar la rapidez de uno
 generador con el otro. Es simplemente una prueba.&lt;/p&gt;
+
+&lt;h2 id=&#34;otro-header:e8fb9c67eba912c72729806db31eaa1b&#34;&gt;Otro header&lt;/h2&gt;
 
 &lt;p&gt;&lt;em&gt;Y por más que se había analizado una prueba con la otra&lt;/em&gt; no había
 duda que esto era cierto.&lt;/p&gt;
@@ -35,8 +41,15 @@ duda que esto era cierto.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;First order item&lt;/li&gt;
 &lt;li&gt;Second one
-&amp;ndash;2. Ordered sub-list.&lt;/li&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Ordered sub-list.&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
 &lt;/ol&gt;
+
+&lt;p&gt;&lt;del&gt;forget about it.&lt;/del&gt;&lt;/p&gt;
+
+&lt;p&gt;This is a test in &lt;strong&gt;bold&lt;/strong&gt; and another one in &lt;em&gt;italic&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
