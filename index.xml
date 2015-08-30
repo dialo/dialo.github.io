@@ -6,8 +6,27 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Aug 2015 06:54:24 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2015 23:27:16 -0400</lastBuildDate>
     <atom:link href="http://dialo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>third</title>
+      <link>http://dialo.github.io/post/third/</link>
+      <pubDate>Sat, 29 Aug 2015 23:27:16 -0400</pubDate>
+      
+      <guid>http://dialo.github.io/post/third/</guid>
+      <description>
+
+&lt;h2 id=&#34;una-prueba-para-su-funcionamiento:1fe12548244a1733e38ed5b40fa959e0&#34;&gt;una prueba para su funcionamiento.&lt;/h2&gt;
+
+&lt;p&gt;Una de las tantas pruebas para ver qué tal funciona.&lt;/p&gt;
+
+&lt;h2 id=&#34;y-la-segunda-parte:1fe12548244a1733e38ed5b40fa959e0&#34;&gt;y la segunda parte.&lt;/h2&gt;
+
+&lt;p&gt;Otro texto que continúa. Esto es una de las tantas pruebas que uno
+tiene para entender lo que ha estado pasando.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>second</title>
@@ -49,7 +68,14 @@ duda que esto era cierto.&lt;/p&gt;
 
 &lt;p&gt;&lt;del&gt;forget about it.&lt;/del&gt;&lt;/p&gt;
 
-&lt;p&gt;This is a test in &lt;strong&gt;bold&lt;/strong&gt; and another one in &lt;em&gt;italic&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;AT&amp;amp;T&lt;/p&gt;
+
+&lt;p&gt;This is a test in &lt;strong&gt;bold&lt;/strong&gt; and another one in &lt;em&gt;italic&lt;/em&gt;
+&lt;img src=&#34;vina.jpg&#34; alt=&#34;una imagen&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;esto es una prueba para denotar la diferencia entre este sistema y
+otro. &lt;img src=&#34;vina.jpg&#34; height=&#34;100&#34; width=&#34;70&#34; align=&#34;right&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
